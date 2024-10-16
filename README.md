@@ -13,3 +13,11 @@
 * **[trusted execution environments](tees.md)**
 * **[multi-party computation](mpc.md)**
 * **[differential privacy](differential.md)**
+
+<br>
+
+### general resources
+
+<br>
+
+* **[exploring cryptographic approaches to enhance privacy in intent solving, by yulia khalniyazova](https://zenodo.org/records/8321167)**
