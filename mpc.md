@@ -12,6 +12,14 @@
 
 <br>
 
+### cool readings
+
+<br>
+
+* **[backrunning private transactions using mpc, by annessi](https://writings.flashbots.net/backrunning-private-txs-MPC)**: diagram for a sgx-based solution for backrunning private txs, talk about covert channels, experiments with mp-spdz, show a poc decoding with rlp
+
+<br>
+
 ---
 
 ### code
