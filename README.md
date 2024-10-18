@@ -9,15 +9,17 @@
 
 <br>
 
-* **[zero-knowledge proofs](zkps.md)**
-* **[trusted execution environments](tees.md)**
-* **[multi-party computation](mpc.md)**
-* **[differential privacy](differential.md)**
-* **[provers](provers.md)**
+* **[zero-knowledge proofs](zkps)**
+* **[trusted execution environments](tees)**
+* **[multi-party computation](mpc)**
+* **[differential privacy](differential)**
+* **[provers](provers)**
 
 <br>
 
-### general resources
+---
+
+### cool readings
 
 <br>
 
