@@ -13,6 +13,7 @@
 * **[trusted execution environments](tees.md)**
 * **[multi-party computation](mpc.md)**
 * **[differential privacy](differential.md)**
+* **[provers](provers.md)**
 
 <br>
 
